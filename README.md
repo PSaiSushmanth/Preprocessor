@@ -99,7 +99,7 @@ float area = 3.14 * r * r;
 
 ## 👨‍💻 Author
 
-**Edula Saikumar**
+**Sai sushmanth**
 
 ---
 
