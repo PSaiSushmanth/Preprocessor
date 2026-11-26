@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<string.h>
+#define abc 3456
+#define pf printf
+#define coding 65
+#define siva 26
+int main()
+{
+// delete single line comment
+int k=abc;
+/* remove multi line comment
+*/
+pf("%d %d\n",k,coding);
+pf("abc=%d\n",siva);
+/*comments removed*/
+} 
